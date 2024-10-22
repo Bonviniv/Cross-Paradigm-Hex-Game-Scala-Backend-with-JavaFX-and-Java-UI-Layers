@@ -1,0 +1,35 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controller">
+   <children>
+      <Button fx:id="button00" layoutX="141.0" layoutY="114.0" mnemonicParsing="false" onMouseClicked="#button00onClick" prefHeight="38.0" prefWidth="61.0" text="Button" />
+      <Button fx:id="button01" layoutX="203.0" layoutY="114.0" mnemonicParsing="false" prefHeight="38.0" prefWidth="61.0" text="Button" />
+      <Button fx:id="button02" layoutX="265.0" layoutY="114.0" mnemonicParsing="false" prefHeight="38.0" prefWidth="61.0" text="Button" />
+      <Button fx:id="button03" layoutX="327.0" layoutY="114.0" mnemonicParsing="false" prefHeight="38.0" prefWidth="61.0" text="Button" />
+      <Button fx:id="button031" layoutX="389.0" layoutY="114.0" mnemonicParsing="false" prefHeight="38.0" prefWidth="61.0" text="Button" />
+      <Button fx:id="button001" layoutX="172.0" layoutY="152.0" mnemonicParsing="false" prefHeight="38.0" prefWidth="61.0" text="Button" />
+      <Button fx:id="button011" layoutX="234.0" layoutY="152.0" mnemonicParsing="false" prefHeight="38.0" prefWidth="61.0" text="Button" />
+      <Button fx:id="button021" layoutX="296.0" layoutY="152.0" mnemonicParsing="false" prefHeight="38.0" prefWidth="61.0" text="Button" />
+      <Button fx:id="button032" layoutX="358.0" layoutY="152.0" mnemonicParsing="false" prefHeight="38.0" prefWidth="61.0" text="Button" />
+      <Button fx:id="button0311" layoutX="420.0" layoutY="152.0" mnemonicParsing="false" prefHeight="38.0" prefWidth="61.0" text="Button" />
+      <Button fx:id="button0011" layoutX="203.0" layoutY="190.0" mnemonicParsing="false" prefHeight="38.0" prefWidth="61.0" text="Button" />
+      <Button fx:id="button00111" layoutX="265.0" layoutY="190.0" mnemonicParsing="false" prefHeight="38.0" prefWidth="61.0" text="Button" />
+      <Button fx:id="button001111" layoutX="327.0" layoutY="190.0" mnemonicParsing="false" prefHeight="38.0" prefWidth="61.0" text="Button" />
+      <Button fx:id="button0011111" layoutX="389.0" layoutY="190.0" mnemonicParsing="false" prefHeight="38.0" prefWidth="61.0" text="Button" />
+      <Button fx:id="button00111111" layoutX="451.0" layoutY="190.0" mnemonicParsing="false" prefHeight="38.0" prefWidth="61.0" text="Button" />
+      <Button fx:id="button00112" layoutX="234.0" layoutY="228.0" mnemonicParsing="false" prefHeight="38.0" prefWidth="61.0" text="Button" />
+      <Button fx:id="button001121" layoutX="296.0" layoutY="228.0" mnemonicParsing="false" prefHeight="38.0" prefWidth="61.0" text="Button" />
+      <Button fx:id="button0011211" layoutX="358.0" layoutY="228.0" mnemonicParsing="false" prefHeight="38.0" prefWidth="61.0" text="Button" />
+      <Button fx:id="button00112111" layoutX="420.0" layoutY="228.0" mnemonicParsing="false" prefHeight="38.0" prefWidth="61.0" text="Button" />
+      <Button fx:id="button001121111" layoutX="482.0" layoutY="228.0" mnemonicParsing="false" prefHeight="38.0" prefWidth="61.0" text="Button" />
+      <Button fx:id="button001122" layoutX="269.0" layoutY="266.0" mnemonicParsing="false" prefHeight="38.0" prefWidth="61.0" text="Button" />
+      <Button fx:id="button0011221" layoutX="331.0" layoutY="266.0" mnemonicParsing="false" prefHeight="38.0" prefWidth="61.0" text="Button" />
+      <Button fx:id="button00112211" layoutX="393.0" layoutY="266.0" mnemonicParsing="false" prefHeight="38.0" prefWidth="61.0" text="Button" />
+      <Button fx:id="button001122111" layoutX="455.0" layoutY="266.0" mnemonicParsing="false" prefHeight="38.0" prefWidth="61.0" text="Button" />
+      <Button fx:id="button0011221111" layoutX="517.0" layoutY="266.0" mnemonicParsing="false" prefHeight="38.0" prefWidth="61.0" text="Button" />
+   </children>
+</AnchorPane>
